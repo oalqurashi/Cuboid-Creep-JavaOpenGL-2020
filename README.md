@@ -1,0 +1,2 @@
+# Cuboid-Creep
+The project will be about an interactive game called Cuboid Creep; it’s based on the 1980 Pacman game.  The objective of this game is to reach the final stage and defeat the boss. There are multiple stages to  complete. The stages are squares that will be connected as a 3D cube object. When the player reaches  the end of any stage, he/she will go to the next stage. Each stage has obstacles, such as enemies and  traps to avoid, torches that alert enemies and reduced field of vision.
