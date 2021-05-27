@@ -1,9 +1,20 @@
 # Cuboid-Creep
-The Idea:
+
+__Problem Definition:__
+
+Developing an interactive 2.5D game which consists of:
+• 2D and 3D Polygons and other shapes
+• Animations for all characters and maps
+• Enemies that chase the player
+• Pathfinding for enemies in the game (Shortest-Path Algorithm)
+
+These points should be implemented using the _Java OpenGL Library_. This game will help users to develop his/her decision-making skills.
+
+__The Idea:__
 
 The project will be about an interactive game called Cuboid Creep; it’s based on the 1980 Pacman game.  The objective of this game is to reach the final stage and defeat the boss. There are multiple stages to  complete. The stages are squares that will be connected as a 3D cube object. When the player reaches  the end of any stage, he/she will go to the next stage. Each stage has obstacles, such as enemies and  traps to avoid, torches that alert enemies and reduced field of vision.
 
-Missing Items:
+__Missing Items:__
 
 Due to the shortness of the semester, and the coronavirus pandemic our time to 
 develop this game was cut short, so this is the list of things that we would have liked to include 
