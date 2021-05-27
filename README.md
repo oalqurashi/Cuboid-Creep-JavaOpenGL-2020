@@ -16,7 +16,7 @@ The project will be about an interactive game called Cuboid Creep; it’s based 
 
 __Missing Items:__
 
-Due to the shortness of the semester, and the coronavirus pandemic our time to 
+Due to the shortness of that semester, and the coronavirus pandemic our time to 
 develop this game was cut short, so this is the list of things that we would have liked to include 
 in our game:
 • The 6 stages were reduced to 3 stages.
