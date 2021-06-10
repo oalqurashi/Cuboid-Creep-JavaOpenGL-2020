@@ -1,6 +1,8 @@
 # Cuboid-Creep
 
-![alt text](https://github.com/oalqurashi/Cuboid-Creep/blob/main/Cuboid%20Creep%20(Original%20Version)/logo.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/oalqurashi/Cuboid-Creep/blob/main/Cuboid%20Creep%20(Original%20Version)/logo.png">
+</p>
 
 ## Problem Definition
 
