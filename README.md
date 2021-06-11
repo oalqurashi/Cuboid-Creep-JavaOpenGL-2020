@@ -27,10 +27,10 @@ The project is about an interactive game called Cuboid Creep:
 
 Due to the shortness of that semester, and the coronavirus pandemic our time to develop this game was cut short, so this is the list of things that we would have liked to include 
 in our game:
-- The 6 stages were reduced to 3 stages.
-- Traps that the player would need to avoid.
-- Interactable objects in the game.
-- Reduced vision for the player.
-- Images of the enemies were scrapped because of compatibility issues.
-- A better UI design.
+- More stages (6 stages in total)
+- Traps that the player would need to avoid
+- Interactable objects in the game
+- Reduced vision for the player
+- Images of the enemies were scrapped because of compatibility issues
+- A better UI design
 - Start screen
