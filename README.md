@@ -12,7 +12,7 @@ Developing an interactive 2.5D game which consists of:
 - Enemies that chase the player
 - Pathfinding for enemies in the game (Shortest-Path Algorithm)
 
-These points should be implemented using the _Java OpenGL Library_. This game will help users to develop his/her decision-making skills.
+These points should be implemented using the _Java OpenGL Library_. This game will help users to develop their decision-making skills.
 
 ## The Idea
 
@@ -25,7 +25,7 @@ The project is about an interactive game called Cuboid Creep:
 
 ## Missing Items
 
-Due to the shortness of that semester, and the coronavirus pandemic our time to develop this game was cut short, so this is the list of things that we would have liked to include 
+Due to the shortness of that semester (2020 AD), and the coronavirus pandemic our time to develop this game was cut short, so this is the list of things that we would have liked to include 
 in our game:
 - More stages (6 stages in total)
 - Traps that the player would need to avoid
