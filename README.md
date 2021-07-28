@@ -12,7 +12,7 @@ Developing an interactive 2.5D game which consists of:
 - Enemies that chase the player
 - Pathfinding for enemies in the game (Shortest-Path Algorithm)
 
-These points should be implemented using the _Java OpenGL Library_. This game will help users to develop their decision-making skills.
+These points should be implemented using the __Java OpenGL Library__. This game will help users to develop their decision-making skills.
 
 ## The Idea
 
