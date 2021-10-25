@@ -34,3 +34,7 @@ in our game:
 - Images of the enemies were scrapped because of compatibility issues
 - A better UI design
 - Start screen
+
+
+
+__(Note: This project is part of the CPCS-391 course i.e. Computer Graphics 1, at King Abdulaziz University)__
